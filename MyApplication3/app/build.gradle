@@ -9,8 +9,8 @@ android {
         applicationId "com.edubill.myapplication3"
         minSdk 21
         targetSdk 31
-        versionCode 5
-        versionName "5.0"
+        versionCode 7
+        versionName "7.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
