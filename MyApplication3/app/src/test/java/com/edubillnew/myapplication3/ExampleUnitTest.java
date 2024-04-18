@@ -1,4 +1,4 @@
-package com.edubill.myapplication3;
+package com.edubillnew.myapplication3;
 
 import org.junit.Test;
 

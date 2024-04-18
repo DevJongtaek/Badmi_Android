@@ -1,4 +1,4 @@
-package com.edubill.myapplication3;
+package com.edubillnew.myapplication3;
 
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
@@ -12,9 +12,6 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.KeyEvent;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.Window;
 import android.webkit.JsResult;
 import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
@@ -67,7 +64,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 웹뷰에 웹 사이트 표시
-        String url = "http://115.68.5.43/M";
+        //String url = "http://115.68.5.43/M";
+        String url = "http://edubill.co.kr/M";
         webView.loadUrl(url);
 
         //  setContentView(webView);

@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.edubill.myapplication3"
+        applicationId "com.edubillnew.myapplication3"
         minSdk 21
-        targetSdk 31
-        versionCode 7
-        versionName "7.0"
+        targetSdk 33
+        versionCode 8
+        versionName "8.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

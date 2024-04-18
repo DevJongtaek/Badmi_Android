@@ -1,4 +1,4 @@
-package com.edubill.myapplication3;
+package com.edubillnew.myapplication3;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
